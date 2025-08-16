@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = ../frontend_/
+[submodule "backend"]
+	path = backend
+	url = ../backend_/
+[submodule "python_microservices"]
+	path = python_microservices
+	url = ../python_microservices_/
