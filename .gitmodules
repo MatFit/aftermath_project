@@ -1,9 +1,9 @@
 [submodule "frontend"]
 	path = frontend
-	url = ../frontend_/
+	url = https://github.com/MatFit/frontend.git
 [submodule "backend"]
 	path = backend
-	url = ../backend_/
+	url = https://github.com/MatFit/backend.git
 [submodule "python_microservices"]
 	path = python_microservices
-	url = ../python_microservices_/
+	url = https://github.com/MatFit/python_microservices.git
