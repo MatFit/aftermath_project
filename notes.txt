@@ -21,3 +21,9 @@ python_microservice:
 
 Commands :
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+
+
+TODO
+---------------------
+Transfer content from OG directories into submodule directories to deal with missing modules from frontend, env files, and so forth

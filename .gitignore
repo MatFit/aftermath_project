@@ -31,3 +31,4 @@ frontend/*.sw?
 python_microservice/app/.env
 python_microservice/app/__pycache__
 
+notes.txt
